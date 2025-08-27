@@ -1,1 +1,2 @@
- some content instead empty file 
+ some content instead empty file
+ second line
